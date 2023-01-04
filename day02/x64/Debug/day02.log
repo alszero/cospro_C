@@ -1,0 +1,5 @@
+﻿  기출문제12.c
+C:\cospro_c\day02\day02\기출문제12.c(7,12): warning C4013: 'func_b'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\cospro_c\day02\day02\기출문제12.c(8,18): warning C4013: 'func_a'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\cospro_c\day02\day02\기출문제12.c(9,18): warning C4013: 'func_c'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  day02.vcxproj -> C:\cospro_c\day02\x64\Debug\day02.exe
