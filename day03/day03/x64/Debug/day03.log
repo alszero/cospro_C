@@ -1,0 +1,4 @@
+﻿  기출문제20.c
+C:\cospro_c\day03\day03\기출문제20.c(11,9): warning C4013: 'func_a'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\cospro_c\day03\day03\기출문제20.c(12,3): warning C4013: 'func_b'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  day03.vcxproj -> C:\cospro_c\day03\x64\Debug\day03.exe
